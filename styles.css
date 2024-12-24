@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+    font-family: Times 'Times New Roman', Times, serif, sans-serif;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0000FF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+    color:#FFFF00
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #0000FF;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+h1, h2 {
+    color: #FFD700;
+}
+
+p {
+    color: #F4A300;
+}
